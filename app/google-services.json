@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "532030232624",
+    "firebase_url": "https://nirsfinal.firebaseio.com",
+    "project_id": "nirsfinal",
+    "storage_bucket": "nirsfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532030232624:android:844f6cce701739577035f5",
+        "android_client_info": {
+          "package_name": "com.example.nirsfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532030232624-d55lfipuffsgv7jan8iq88t7638ql21o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirsfinal",
+            "certificate_hash": "0f122657a8311ed521d9ed9170a0700224f31aeb"
+          }
+        },
+        {
+          "client_id": "532030232624-avfmk098i33rdjd900ob15ir810gumfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2zGBDDSc29o9CZwLmkdfsMDThFU-aW7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532030232624-avfmk098i33rdjd900ob15ir810gumfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
